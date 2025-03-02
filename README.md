@@ -1,2 +1,2 @@
 # dio-java-basico
-Repositório para armazenar too o conteudo o bootcamp Java basico
+Repositório para armazenar todo o conteudo o bootcamp Java basico
